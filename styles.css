@@ -76,8 +76,7 @@ p {
 }
 
 .verticalAlignTop {
-  /* vertical-align: top; */
-  vertical-align: text-top;
+  vertical-align: top;
 }
 
 .verticalAlignMiddle {
@@ -91,6 +90,7 @@ p {
 .paddingAllFour {
   background-color: lightblue;
   border: 1px solid black;
+  padding: 25px 10px 15px 5px;
 }
 
 .marginAllFour {
