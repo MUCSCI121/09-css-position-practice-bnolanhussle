@@ -63,22 +63,28 @@ p {
 
 .height400 {
   background-color: lightblue;
+  height: 400px;
 }
 
 .width200 {
   background-color: lightblue;
+  width: 300px;
 }
 
 .verticalAlignBaseline {
+  vertical-align: baseline;
 }
 
 .verticalAlignTop {
+  vertical-align: top;
 }
 
 .verticalAlignMiddle {
+  vertical-align: middle;
 }
 
 .verticalAlignBottom {
+  vertical-align: bottom;
 }
 
 .paddingAllFour {
