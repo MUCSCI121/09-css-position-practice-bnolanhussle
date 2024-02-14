@@ -88,7 +88,8 @@ p {
 }
 
 .positionSticky {
-  /* set the top, left, bottom, or right property to a value along with setting the position property */
+  top: 200px;
+  position: sticky;
 }
 
 .positionFixed {
