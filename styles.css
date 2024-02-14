@@ -92,8 +92,8 @@ p {
 }
 
 .positionFixed {
-  top: 40px;
-  left: 100px;
+  top: 40%;
+  left: 200px;
   position: fixed;
 }
 
@@ -104,5 +104,7 @@ p {
 }
 
 .positionRelative {
-  /* set the top, left, bottom, or right property to a value along with setting the position property */
+  top: 40px;
+  left: 200px;
+  position: relative;
 }
