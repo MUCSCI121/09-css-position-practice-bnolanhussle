@@ -76,7 +76,8 @@ p {
 }
 
 .verticalAlignTop {
-  vertical-align: top;
+  /* vertical-align: top; */
+  vertical-align: text-top;
 }
 
 .verticalAlignMiddle {
