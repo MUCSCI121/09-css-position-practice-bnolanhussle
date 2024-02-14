@@ -42,20 +42,23 @@ p {
 }
 
 .fontWeightBold {
-  font-weight: ;
+  font-weight: bold;
 }
 
 .fontWeightBolder {
+  font-weight: bolder;
 }
 
 .fontWeightNormal {
+  font-weight: normal;
 }
 
 .fontWeightLighter {
+  font-weight: lighter;
 }
 
 .fontWeightNumeric {
-  /* set the weight to 900 */
+  font-weight: 900;
 }
 
 .height400 {
