@@ -96,7 +96,9 @@ p {
 }
 
 .positionAbsolute {
-  /* set the top, left, bottom, or right property to a value along with setting the position property */
+  top: 10%;
+  left: 25%;
+  position: absolute;
 }
 
 .positionRelative {
